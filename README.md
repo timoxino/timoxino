@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @timoxino, Java developer, Technical Interviewer and Delivery Manager.
+- 👀 I’m interested in Java language and it's ecosystem in general.
+- 🌱 I’m currently learning Java latest new features.
+- 💞️ I’m looking to collaborate on sharing interesting qustions about Java as well as most popular frameworks from Java world.
+- 📫 How to reach me: 
